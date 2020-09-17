@@ -1,11 +1,17 @@
 # CNN_classif_and_GradCAM
 
+Travail réalisé lors d'un stage en laboratoire de recherche, au sein de l'Université de Technologie de Troyes
+
+# Classification Binaire: 
+
+Implémentation de CNN (Convolutional Neural Networks) sous Tensorflow, entraînement par GPU sur des données du monde réel :
+des morceaux de roue de voiture, contenanant un défaut visuel.
+
+Classification binaire : Défaut / abscence de défaut
+
+# Localisation : 
 
 Implémentation de la localisation par [GradCAM](https://arxiv.org/abs/1610.02391) (Gradient Class Activation Maps)
-
-Exemples de prédictions, sur des données du monde réel : des morceaux de roue de voiture, contenanant un défaut visuel.
-
-Travail réalisé lors d'un stage en laboratoire de recherche, au sein de l'Université de Technologie de Troyes
 
 Exemples de predictions : 
 - En haut : Image de départ, en entrée du CNN, avec ajout de la bounding box predite
