@@ -7,8 +7,7 @@ Travail réalisé lors d'un stage en laboratoire de recherche, au sein de l'Univ
 Implémentation de CNN (Convolutional Neural Networks) sous Tensorflow, entraînement par GPU sur des données du monde réel :
 des morceaux de roue de voiture, contenanant un défaut visuel.
 
-Classification binaire : Défaut / abscence de défaut
-
+Classification binaire : Défaut / abscence de défaut. Evaluation par Accuracy, Precision et Confusion Matrix
 # Localisation : 
 
 Implémentation de la localisation par [GradCAM](https://arxiv.org/abs/1610.02391) (Gradient Class Activation Maps)
